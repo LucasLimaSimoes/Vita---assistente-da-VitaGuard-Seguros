@@ -85,27 +85,27 @@ O sistema utiliza uma arquitetura híbrida:
 
 Usuário
 
-&#x20;  ↓
+  ↓
 
 Detecção de intenção (LLM)
 
-&#x20;  ↓
+  ↓
 
 Busca semântica (RAG + FAISS)
 
-&#x20;  ↓
+  ↓
 
 Validação da resposta
 
-&#x20;  ↓
+  ↓
 
 Humanização da resposta
 
-&#x20;  ↓
+  ↓
 
 Memória conversacional
 
-&#x20;  ↓
+  ↓
 
 Resposta final
 
